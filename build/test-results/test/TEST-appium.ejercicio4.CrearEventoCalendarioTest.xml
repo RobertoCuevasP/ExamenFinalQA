@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="appium.ejercicio4.CrearEventoCalendarioTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T12:22:43" hostname="LAPTOP-0QK3E9B0" time="20.591">
+  <properties/>
+  <testcase name="createTaskTest" classname="appium.ejercicio4.CrearEventoCalendarioTest" time="20.591"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar 26, 2021 8:22:54 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

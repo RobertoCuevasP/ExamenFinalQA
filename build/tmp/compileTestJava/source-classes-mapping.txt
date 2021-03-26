@@ -1,0 +1,88 @@
+selenium/controls/Button.java
+ selenium.controls.Button
+selenium/factoryBrowser/FactoryBrowser.java
+ selenium.factoryBrowser.FactoryBrowser
+restAPI/factoryRequest/Post.java
+ restAPI.factoryRequest.Post
+appium/sesion/Session.java
+ appium.sesion.Session
+selenium/pomPages/todoLy/MenuSection.java
+ selenium.pomPages.todoLy.MenuSection
+selenium/controls/Label.java
+ selenium.controls.Label
+appium/control/Label.java
+ appium.control.Label
+selenium/factoryBrowser/Edge.java
+ selenium.factoryBrowser.Edge
+restAPI/factoryRequest/Patch.java
+ restAPI.factoryRequest.Patch
+restAPI/factoryRequest/Delete.java
+ restAPI.factoryRequest.Delete
+selenium/factoryBrowser/BrowserStack.java
+ selenium.factoryBrowser.BrowserStack
+restAPI/factoryRequest/Put.java
+ restAPI.factoryRequest.Put
+appium/control/TextBox.java
+ appium.control.TextBox
+restAPI/factoryRequest/FactoryRequest.java
+ restAPI.factoryRequest.FactoryRequest
+appium/devices/IDevices.java
+ appium.devices.IDevices
+selenium/controls/CheckBox.java
+ selenium.controls.CheckBox
+restAPI/configuration/Config.java
+ restAPI.configuration.Config
+selenium/factoryBrowser/FireFox.java
+ selenium.factoryBrowser.FireFox
+selenium/extra/BaseTodoly.java
+ selenium.extra.BaseTodoly
+selenium/extra/Ejercicio2.java
+ selenium.extra.Ejercicio2
+selenium/controls/Image.java
+ selenium.controls.Image
+restAPI/utilsJson/JsonHelper.java
+ restAPI.utilsJson.JsonHelper
+selenium/controls/TextBox.java
+ selenium.controls.TextBox
+appium/control/ControlAppium.java
+ appium.control.ControlAppium
+selenium/factoryBrowser/Chrome.java
+ selenium.factoryBrowser.Chrome
+selenium/singletonSession/Session.java
+ selenium.singletonSession.Session
+restAPI/factoryRequest/IRequest.java
+ restAPI.factoryRequest.IRequest
+restAPI/factoryRequest/Get.java
+ restAPI.factoryRequest.Get
+appium/control/Button.java
+ appium.control.Button
+restAPI/factoryRequest/RequestInformation.java
+ restAPI.factoryRequest.RequestInformation
+selenium/factoryBrowser/IBrowser.java
+ selenium.factoryBrowser.IBrowser
+selenium/controls/Control.java
+ selenium.controls.Control
+appium/activities/calendario/DailyViewMainPage.java
+ appium.activities.calendario.DailyViewMainPage
+appium/activities/calendario/EventPage.java
+ appium.activities.calendario.EventPage
+appium/activities/calendario/MainPage.java
+ appium.activities.calendario.MainPage
+selenium/pomPages/todoLy/LeftSection.java
+ selenium.pomPages.todoLy.LeftSection
+appium/devices/FactoryDevices.java
+ appium.devices.FactoryDevices
+selenium/pomPages/todoLy/CenterSection.java
+ selenium.pomPages.todoLy.CenterSection
+selenium/pomPages/todoLy/LoginModal.java
+ selenium.pomPages.todoLy.LoginModal
+appium/devices/Android.java
+ appium.devices.Android
+selenium/pomPages/todoLy/MainPage.java
+ selenium.pomPages.todoLy.MainPage
+appium/ejercicio4/CrearEventoCalendarioTest.java
+ appium.ejercicio4.CrearEventoCalendarioTest
+restAPI/runner/Runner.java
+ restAPI.runner.Runner
+restAPI/runner/MyStepsClean.java
+ restAPI.runner.MyStepsClean
